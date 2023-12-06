@@ -1,0 +1,300 @@
+ - How many days are left until the 2023 Grammy Awards?
+ - what date is today?
+ - summarize all the AI product news and brain-machine interface news to me today and rank by high Popularity?
+ - what is the trending for security technology next year?
+ - In what year did pinduoduo`s capital exceed alibaba`s capital?
+ - How many years ago did the Boxing Day Tsunami happen?
+ - Who is the latest winner of the Formula 1 world championship?
+ - What is the latest version of Android?
+ - 今年诺贝尔物理学奖得主是谁？
+ - 美国最近一次总统选举是什么时候？
+ - 世界上最高的山是哪座，它的高度是多少？
+ - 目前全球人口最多的国家是哪个？
+ - 最新一部《哈利·波特》系列电影是哪一部？
+ - 现在是哪个国家的经济增长率最高？
+ - 最近的奥林匹克运动会是在哪个城市举办的？
+ - 当前世界上最长的河流是哪一条？
+ - 最新一季《权力的游戏》共有多少集？
+ - 苹果公司最新发布的iPhone型号是哪一个？
+ - 今年的戛纳电影节最佳影片奖得主是谁？
+ - 目前世界上最快的列车运行在哪个国家？
+ - 最近一次火星探测任务是由哪个国家发起的？
+ - 世界遗产名录中，最新加入的遗产是什么？
+ - 现在世界富豪榜排名第一的是谁？
+ - 最近的诺贝尔文学奖获得者创作了哪些作品？
+ - 今年的联合国气候变化大会在哪里召开？
+ - 目前全球平均寿命是多少岁？
+ - 世界上现存最古老的书籍是哪一本？
+ - 最新的安卓操作系统版本叫什么名字？
+ - 今年的诺贝尔和平奖得主是谁？
+ - 最近的环法自行车赛冠军是哪位选手？
+ - 当前世界上最大的海洋保护区位于哪里？
+ - 最新的联合国人口报告显示全球人口数量是多少？
+ - 目前世界上最快的互联网速度在哪个国家？
+ - 最新上映的迪士尼动画电影是哪一部？
+ - 现在世界经济增长预测是多少？
+ - 今年获得普利策奖的是哪位作家？
+ - 最新的国际足球排名，排名第一的国家是哪个？
+ - 当前世界上最贵的画作是什么？
+ - 最近的国际太空站任务是什么？
+ - 当前世界上最长寿的人是谁？
+ - 最新的《福布斯》全球亿万富翁榜首是谁？
+ - 今年的戛纳电影节评委会主席是谁？
+ - 最新的国际篮球联合会世界排名第一的球队是哪一个？
+ - 当前欧洲联盟的会员国共有多少个？
+ - 最新的世界卫生组织报告指出最大的全球健康威胁是什么？
+ - 最近一次金球奖最佳影片是哪一部？
+ - 今年的诺贝尔化学奖主要研究领域是什么？
+ - 当前全球平均气温相比工业化前上升了多少度？
+ - 今年的世界经济论坛在哪个城市举行？
+ - 最新的国际足联世界杯赛冠军是哪个国家？
+ - 当前全球最大的石油生产国是哪个？
+ - 最新一次联合国大会的主要议题是什么？
+ - 当前世界上最高的建筑物是哪一个？
+ - 今年的普利策新闻摄影奖得主拍摄的是哪个事件？
+ - 最新的《米其林指南》评选出的最佳餐厅位于哪里？
+ - 当前的世界羽毛球排名第一的选手是谁？
+ - 今年的科学界有哪些重大突破？
+ - 最新一次世界卫生大会的主要关注点是什么？
+ - 当前的世界上最长的桥梁是哪座？
+ - 最新的诺贝尔经济学奖得主研究的是什么领域？
+ - 今年的国际数学奥林匹克竞赛金牌得主是谁？
+ - 最近的大型火山爆发发生在哪里？
+ - 当前全球最大的技术公司是哪家？
+ - 最新一次奥斯卡最佳导演奖得主是谁？
+ - 今年国际物理学大会的主题是什么？
+ - 当前全球生物多样性最丰富的国家是哪个？
+ - 最新的欧洲足球冠军联赛冠军是哪个球队？
+ - 世界上现存最古老的树龄是多少年？
+ - 最近的大型国际艺术展览在哪里举行？
+ - 当前全球最大的太阳能发电站位于哪里？
+ - 最新的国际田径锦标赛纪录保持者是谁？
+ - 今年全球环境保护的主要议题是什么？
+ - 最近一次国际象棋世界冠军赛冠军是谁？
+ - 当前全球最大的飞机是哪一型？
+ - 最新的世界遗产地加入的是哪个地点？
+ - 今年的文化遗产保护大会在哪个城市举行？
+ - 最新的国际电影节最佳纪录片奖得主是谁？
+ - 当前全球最大的珊瑚礁系统在哪里？
+ - 最新的世界卫生组织报告显示，全球儿童肥胖率如何？
+ - 今年的国际生物多样性日的主题是什么？
+ - 最新一次国际太空探索任务目标是哪个星体？
+ - 当前世界上最深的海沟是哪一个？
+ - 最近的国际机器人展览会在哪里举行？
+ - 今年全球最热门的旅游目的地是哪里？
+ - 最新的联合国教科文组织全球教育报告的主要发现是什么？
+ - 当前全球最长的地铁系统在哪个城市？
+ - 最新的国际电影大奖最佳外语片是哪一部？
+ - 今年全球最大的环境灾难是什么事件？
+ - 当前世界上最大的书店在哪里？
+ - 最新的诺贝尔生理学或医学奖是关于什么研究的？
+ - 今年的戛纳电影节最佳导演奖得主是谁？
+ - 当前全球最长寿的动物是什么？
+ - 最新一次国际环保会议的主要决议是什么？
+ - 今年的国际设计奖得主设计了什么产品？
+ - 最新的世界羽毛球锦标赛冠军是谁？
+ - 当前世界上最大的室内滑雪场在哪里？
+ - 最新的国际摄影大赛获奖作品是什么？
+ - 今年国际天文联盟的主要发现是什么？
+ - 最新一次国际数码产品展览会在哪里举行？
+ - 当前世界上最大的热气球节是在哪个国家？
+ - 最新的联合国人权报告关注的主要问题是什么？
+ - 今年的国际音乐节最受欢迎的表演者是谁？
+ - 最新的国际科学竞赛冠军是哪个团队？
+ - 当前全球最大的淡水湖是哪一个？
+ - 最近一次国际数学论坛的主题是什么？
+ - 今年的世界图书大奖得主是谁？
+ - 最新的国际旅游博览会在哪个城市举行？
+ - 当前全球最高的水上过山车在哪里？
+ - 最新一次国际环境保护奖的获奖项目是什么？
+ - 今年的国际电影学院奖最佳影片是哪一部？
+ - 最近的国际语言学会议的主要议题是什么？
+ - 当前世界上最高的自然瀑布是哪一个？
+ - 最新的国际建筑设计奖得主设计了什么建筑？
+ - 今年全球最受关注的科技创新是什么？
+ - 最新的国际舞蹈大赛冠军是哪位舞者？
+ - 当前全球最大的海洋保护区在哪里设立？
+ - 最近一次国际生物技术会议的重点议题是什么？
+ - 今年的国际艺术节最佳表演是什么？
+ - 最新的国际环境保护法规定是什么？
+ - 今年的国际数学研究奖得主研究的是哪个领域？
+ - 当前世界上最大的太阳能发电站在哪里运行？
+ - 最新的国际电影节最佳短片奖得主是谁？
+ - 今年国际生态学大会的主要议题是什么？
+ - 最近一次国际医学研究成果展示会在哪里举行？
+ - 当前全球最长的地下河流是哪一条？
+ - 最新的国际建筑展览在哪个城市举行？
+ - 今年的世界时尚大奖得主设计了什么作品？
+ - 最新一次国际数码创新大赛的获奖作品是什么？
+ - 当前世界上最大的人工岛是哪一个？
+ - 最近的国际网络安全会议的主要议题是什么？
+ - 今年的国际美食节最佳厨师奖得主是谁？
+ - 最新的国际航天探索任务目标是什么？
+ - 当前世界上最大的自然保护区在哪里？
+ - 最新一次国际生物多样性大会的主要决议是什么？
+ - 今年的国际科技博览会在哪个城市举行？
+ - 最近的国际化学奖得主研究的是哪个领域？
+ - 当前全球最长的悬索桥是哪一座？
+ - 最新的国际环境影响评估报告显示了什么？
+ - 今年的国际历史学会议的主要发现是什么？
+ - 最近一次国际音乐制作大赛的冠军是谁？
+ - 当前全球最大的沙漠是哪一个？
+ - 最新的国际艺术收藏展览在哪里举行？
+ - 今年的国际建筑设计奖得主设计了哪些建筑？
+ - 最新一次国际工程技术展的主要焦点是什么？
+ - 当前世界上最大的人造湖是哪一个？
+ - 最近的国际生物学大奖得主的研究内容是什么？
+ - 今年全球最受欢迎的旅游目的地是哪里？
+ - 最新的国际能源发展报告的主要结论是什么？
+ - 当前全球最大的室内水上乐园在哪里？
+ - 最新的国际物理学大奖得主研究的是什么？
+ - 今年的国际环境摄影大赛最佳作品是什么？
+ - 最近一次国际经济论坛的主要议题是什么？
+ - 当前全球最大的风力发电场位于哪里？
+ - 最新的国际工业设计奖得主设计了什么产品？
+ - 今年国际生物工程大会的主要成果是什么？
+ - 最新一次国际天体物理研究的重大发现是什么？
+ - 当前世界上最大的热带雨林在哪里？
+ - 最近的国际数码艺术展览在哪里举行？
+ - 今年的国际机器学习大会的主要研究方向是什么？
+ - 最新的国际环境保护志愿者大奖得主是谁？
+ - 当前世界上最大的淡水湖泊是哪一个？
+ - 最近一次国际城市规划论坛的焦点是什么？
+ - 今年的国际电子游戏展最受欢迎的游戏是哪一个？
+ - 最新的国际航空展览在哪个城市举行？
+ - 当前全球最大的海洋保护项目是什么？
+ - 最近的国际植物学大奖得主研究的是什么？
+ - 今年的国际建筑史会议的主要议题是什么？
+ - 最新一次国际生态保护大赛的获奖项目是什么？
+ - 当前世界上最长的滑雪道在哪里？
+ - 最近的国际化学工程大会的主要成果是什么？
+ - 今年国际动物保护日的主题活动是什么？
+ - 最新的国际环境保护法律更新是什么？
+ - 当前全球最大的珊瑚礁恢复项目在哪里进行？
+ - 最近一次国际科技发明展的最佳发明是什么？
+ - 今年的国际地理学大会的主要发现是什么？
+ - 最新的国际古生物学研究成果展示的是什么？
+ - 当前世界上最高的天然瀑布是哪一个？
+ - 最近的国际可持续发展论坛的主要议题是什么？
+ - How much does the new Apple HomePod cost?
+ - How many books has Colleen Hoover published?
+ - How many goals has Erling Haaland scored in the UEFA Champion League?
+ - How many goals did Kylian Mbappé score in the UEFA Champion League last season?
+ - Who is the current ATP top-ranked men's singles tennis player?
+ - Which team is at the top of the latest Premier League season?
+ - Who is the richest man on earth?
+ - Who is the number 1 ranked female tennis player in the world?
+ - Who won the latest NBA championship?
+ - Is Arsenal on the top of the latest Premier League standings?
+ - What was the most-viewed music video in the first 24 hours on YouTube?
+ - How much does the Netflix basic plan without ads cost in the US?
+ - What is the release name of the latest version of the macOS operating system?
+ - How many novels has Stephen King published?
+ - How many exoplanets have been discovered?
+ - Who is the current No. 1 on the Billboard Artist 100?
+ - What is the latest highest-grossing movie of the week at the Box office?
+ - Who is the starting running back for the San Francisco 49ers?
+ - What is the base price of a Tesla Model Y long-range?
+ - Who is the most recent NBA player to score 60 or more points in a single game?
+ - What is Geoff Hinton’s h-index?
+ - How many tornadoes have been confirmed so far in the United States this year?
+ - How many citations does Geoffrey Hinton have according to Google Scholar?
+ - What date was the last time it rained in New York City?
+ - Is Apple's stock price above $170 per share?
+ - Who was the guest of honor at the most recent state dinner hosted by the President of the United States?
+ - What is the most recent country that President Joe Biden visited?
+ - What is the current best-selling children's book on Amazon?
+ - What is the current most popular Wikipedia article of the Week?
+ - What is the next Walt Disney Animation Studios film?
+ - When was Coldplay's last concert?
+ - Who won the latest Nobel Prize in Literature?
+ - Where will the upcoming International Mathematical Olympiad (IMO) be hosted?
+ - How old is Donald Trump?
+ - Who won the most recent Super Bowl?
+ - Who won the latest Grammy Award for Best Improvised Jazz Solo?
+ - What are this year's Coachella festival dates?
+ - When is this year's Black Friday?
+ - When does this year's Passover start?
+ - Who were the finalists in the US Open women's singles last year?
+ - How many papers (including both long and short papers) were accepted into the main conference of ACL last year?
+ - What date is mother's day in the United States this year?
+ - What date is father's day in the United States this year?
+ - Where is EMNLP this year?
+ - Which broadcast network is this year's Super Bowl broadcaster?
+ - What was the highest-grossing film in the United States last year?
+ - What Berber year corresponds to the present year?
+ - When is this year's Ramadan?
+ - What date is Thanksgiving this year?
+ - What date is this year's Labor day?
+ - What won the latest Academy Award for Best Animated Feature?
+ - Where will NeurIPS be located this year?
+ - Which movie won the latest Academy Award for Best Picture?
+ - What is the host stadium of this year's Super Bowl?
+ - On what date was last year's State of the Union Address delivered?
+ - When is the next U.S. federal holiday?
+ - What season is it in the northern hemisphere?
+ - Who is the latest winner of The Voice US?
+ - Who was the winner of The Voice US this year?
+ - On what date in North America did the most recent Microsoft's Patch Tuesday come out?
+ - The upcoming Microsoft's Patch Tuesday will come out on what date in North America?
+ - What is the latest United States jurisdiction to legalize the recreational use of cannabis?
+ - Who was the winner of American Idol this year?
+ - Who is the latest winner of American Idol?
+ - What book won the latest Nebula award for Best Novel?
+ - On what date did the Patriots last play the Miami Dolphins?
+ - Which game won the Spiel des Jahres award most recently?
+ - What is the title of Stephen King's most recent novel?
+ - Who won the latest Ballon D'or?
+ - Who is the latest MotoGP World Riders' Champion?
+ - What is the youngest age eligible for COVID-19 vaccination in the United States?
+ - What is the most recent Walt Disney Animation Studios's animated film?
+ - Who won the most recent Time Magazine's Athlete of the Year?
+ - What's the latest game released by Puppet Combo on Steam?
+ - What album holds the record for the most Spotify streams reached in a single day?
+ - Who was the most recent incumbent president worldwide who ran for re-election but was not reelected?
+ - What's the most popular film on Letterboxd this week?
+ - Where was the most recent IJCAI conference held?
+ - Which drama series won the most recent Primetime Emmy Award for Outstanding Drama Series?
+ - When did the latest NFL season begin?
+ - How many undergraduate students enrolled in Reed College in the most recent fall semester?
+ - How many countries have recognized same-sex marriage?
+ - What video game won the most recent Game Award for Game of the Year?
+ - The longest winning streak in the last season of the Premier League consisted of how many matches?
+ - In which country was the richest woman in the world born?
+ - In what country was the most recent winner of the Nobel Prize for Literature born?
+ - What country does the Wimbledon women's champion play for?
+ - How old is the world's oldest verified living person?
+ - How many years it has been since the last Major League Baseball perfect game?
+ - How many novels has Stephen King published under his real name?
+ - How many countries has President Joe Biden visited (in addition to West Bank) during his presidency so far?
+ - How many Southeast Asian countries has President Joe Biden visited during his presidency so far?
+ - Who are the current champions of the NBA, NHL, and MLB?
+ - In how many years will Netflix celebrate its thirtieth anniversary?
+ - Do the Toronto Raptors have a winning record in the latest NBA season?
+ - How many times has a player scored 60 or more points in a single game in NBA history?
+ - Is Tesla's stock price above $250 a share?
+ - Is one US dollar worth more than 82 Indian rupees?
+ - Is the average regular gasoline price in Massachusetts under $3.70 a gallon?
+ - Is the platinum price to palladium price ratio currently above 0.7?
+ - What is the current age of the oldest person to sail solo across the Pacific Ocean?
+ - How old is David Beckham's daughter?
+ - How old is the current Miss Universe?
+ - How many years ago did John Paul II die?
+ - How long has it been since the Eiffel Tower's inauguration?
+ - How old is the most-followed user on TikTok?
+ - How old is the richest person in the world?
+ - How old is David Beckham's oldest son?
+ - When does the largest marathon in the world start this year?
+ - Which author had the most bestselling novels in the United States last year according to Publishers Weekly?
+ - Who posted the most-liked tweet last year?
+ - How many American companies were there in the Fortune Global 500 list last year?
+ - How many goals did Bukayo Saka score in his most recent match against Liverpool?
+ - How old is the latest American Nobel laureate in Physics?
+ - Who are the latest champions of the North America's oldest professional sports trophy?
+ - What is Brad Pitt's most recent movie as an actor?
+ - What's the current Tomatometer score of the most recent season of The Lord of the Rings: The Rings of Power on Rotten Tomatoes?
+ - What's the current audience score of the most recent season of The Lord of the Rings: The Rings of Power on Rotten Tomatoes?
+ - In what month and year was the price of Bitcoin last above $40,000?
+ - In what country was the most recent Time Person of the Year born?
+ - What country does the most recent Time Magazine's Entertainer of the Year come from?
+ - How many LauncherOne's flights have successfully reached the Low Earth orbit?
