@@ -1,0 +1,6 @@
+ - https://lilianweng.github.io/posts/2023-06-23-agent/
+ - https://en.wikipedia.org/wiki/Stan_Lai
+ - https://hub.baai.ac.cn/view/24109
+ - https://python.langchain.com/docs/use_cases/web_scraping
+ - https://www.espn.com
+ - https://www.bbc.com/news/world-asia-67610240
