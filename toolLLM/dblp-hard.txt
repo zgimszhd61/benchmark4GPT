@@ -1,0 +1,100 @@
+How many people does Lili He need to know at least to know Zhikang Shuai in the DBLP citation network?
+How many people does Hiroshi Ishiguro need to know at least to know Manabu Ikeda in the DBLP citation network?
+How many people does Badawy Reham need to know at least to know Bloem Bastiaan in the DBLP citation network?
+How many people does Cagatay Goncu need to know at least to know Samuel Reinders in the DBLP citation network?
+How many people does Mark de Reuver need to know at least to know Jafar Rezaei in the DBLP citation network?
+How many people does Pratheepan Yogarajah need to know at least to know Sonya Coleman in the DBLP citation network?
+How many people does Jungyeul Park need to know at least to know KyungTae Lim in the DBLP citation network?
+How many people does Muhammad Akhtar Munir need to know at least to know Muhammad Haris Khan in the DBLP citation network?
+How many people does Raman Kumar need to know at least to know Vikram Goyal in the DBLP citation network?
+How many people does Aleksandra Revina need to know at least to know Nina Rizun in the DBLP citation network?
+How many common collaborators does Luigi Asprino have with Aldo Gangemi?
+How many common collaborators does Ananya Misra have with Thibault Doutre?
+How many common collaborators does Guoxian Yu have with Qiaoyu Tan?
+How many common collaborators does Jinhao Wu have with Jia, Riheng?
+How many common collaborators does Abdullah Mohammed Al-Majid have with Sammer Yousuf?
+How many common collaborators does Deli Zhao have with Jiapeng Zhu?
+How many common collaborators does Zhiwei Yu have with Shuang Chen?
+How many common collaborators does Ran Liu have with Xi Chen?
+How many common collaborators does Chen Jiang have with Xudong Yang?
+How many common collaborators does Jakub Montewka have with Spyros Hirdaris?
+Which is the most cited paper written by Andreas Vlachos in the DBLP citation network?
+Which is the most cited paper written by Yanshuai Cao in the DBLP citation network?
+Which is the most cited paper written by Taru Jain in the DBLP citation network?
+Which is the most cited paper written by Guanyu Lin in the DBLP citation network?
+Which is the most cited paper written by Yashoteja Prabhu in the DBLP citation network?
+Which is the most cited paper written by Jiefeng Hu in the DBLP citation network?
+Which is the most cited paper written by Sufeng Niu in the DBLP citation network?
+Which is the most cited paper written by Łukasz Orlikowski in the DBLP citation network?
+Which is the most cited paper written by Toru Akishita in the DBLP citation network?
+Which is the most cited paper written by Wei Tong in the DBLP citation network?
+Which collaborator does Mitsuhiro Nakamura have the most citations with in the DBLP citation network?
+Which collaborator does Hao Zhang have the most citations with in the DBLP citation network?
+Which collaborator does Hao Li have the most citations with in the DBLP citation network?
+Which collaborator does João P. Hespanha have the most citations with in the DBLP citation network?
+Which collaborator does Zhenjia Wang have the most citations with in the DBLP citation network?
+Which collaborator does Kai Yang have the most citations with in the DBLP citation network?
+Which collaborator does Juan Manuel Corchado Rodríguez have the most citations with in the DBLP citation network?
+Which collaborator does Wu, Hsiao-Chun have the most citations with in the DBLP citation network?
+Which collaborator does Erick Mas have the most citations with in the DBLP citation network?
+Which collaborator does S. Thomas George have the most citations with in the DBLP citation network?
+Which venue does Claudio Garcia publish the most papers in the DBLP citation network?
+Which venue does Amara Amara publish the most papers in the DBLP citation network?
+Which venue does Dong Yan publish the most papers in the DBLP citation network?
+Which venue does Peter Hoogeboom publish the most papers in the DBLP citation network?
+Which venue does Yinshuang Xu publish the most papers in the DBLP citation network?
+Which venue does Tim Cardell publish the most papers in the DBLP citation network?
+Which venue does Richard Schulz publish the most papers in the DBLP citation network?
+Which venue does Salwa El-Ramly publish the most papers in the DBLP citation network?
+Which venue does Jin Qian publish the most papers in the DBLP citation network?
+Which venue does Chenguang He publish the most papers in the DBLP citation network?
+How many accumulated citations do papers collaborated by Yusuke Kawamoto and Kohei Suenaga have in the DBLP citation network?
+How many accumulated citations do papers collaborated by Junjie Zhao and Xiangyang Luo have in the DBLP citation network?
+How many accumulated citations do papers collaborated by Nikil Dutt and Nikil Dutt have in the DBLP citation network?
+How many accumulated citations do papers collaborated by Rohan Badlani and Adrian Łańcucki have in the DBLP citation network?
+How many accumulated citations do papers collaborated by Kevin C. Desouza and Amy J.C. Trappey have in the DBLP citation network?
+How many accumulated citations do papers collaborated by Serim Park and Sofía Samaniego have in the DBLP citation network?
+How many accumulated citations do papers collaborated by David Schrammel and Stefan Mangard have in the DBLP citation network?
+How many accumulated citations do papers collaborated by Donald G. Dansereau and Chamith Wijenayake have in the DBLP citation network?
+How many accumulated citations do papers collaborated by Delia Kesner and Simona Ronchi Della Rocca have in the DBLP citation network?
+How many accumulated citations do papers collaborated by Chathura Wanigasekara and Akshya Swain have in the DBLP citation network?
+How many papers in all do Han Wu and his/her collaborators have in the DBLP citation network?
+How many papers in all do Guang Cheng and his/her collaborators have in the DBLP citation network?
+How many papers in all do Jiayu Dong and his/her collaborators have in the DBLP citation network?
+How many papers in all do Duc-Dung Tran and his/her collaborators have in the DBLP citation network?
+How many papers in all do Atsushi Keyaki and his/her collaborators have in the DBLP citation network?
+How many papers in all do Pietro Ferraro and his/her collaborators have in the DBLP citation network?
+How many papers in all do Chejian Xu and his/her collaborators have in the DBLP citation network?
+How many papers in all do Irvin Aloise and his/her collaborators have in the DBLP citation network?
+How many papers in all do Hongping Wang and his/her collaborators have in the DBLP citation network?
+How many papers in all do Claire O'Shea and his/her collaborators have in the DBLP citation network?
+Who collaborated with Ke Xu most in the DBLP citation network?
+Who collaborated with Yang Jiao most in the DBLP citation network?
+Who collaborated with Younghyun Lim most in the DBLP citation network?
+Who collaborated with Zhengwei Wu most in the DBLP citation network?
+Who collaborated with Carlos Perez most in the DBLP citation network?
+Who collaborated with Mihir Mody most in the DBLP citation network?
+Who collaborated with Hemant Kumar Rath most in the DBLP citation network?
+Who collaborated with Myeongjae Jeon most in the DBLP citation network?
+Who collaborated with Anderson Soares most in the DBLP citation network?
+Who collaborated with Vincent Lepetit most in the DBLP citation network?
+What institutions participated in the study of Secure Maximum Weight Matching Approximation on General Graphs (Full Version). in the DBLP citation network?
+What institutions participated in the study of Python parallel processing for hyperspectral image simulation: based on distance functions in the DBLP citation network?
+What institutions participated in the study of Analysis and Implementation for Traffic-Aware Channel Assignment and Contention Scheme in LoRa based IoT Networks in the DBLP citation network?
+What institutions participated in the study of Coordinating Momenta for Cross-Silo Federated Learning. in the DBLP citation network?
+What institutions participated in the study of A Study on Visualization of Spatial Information using Drone Images in the DBLP citation network?
+What institutions participated in the study of A Hybrid Dl-Driven Intelligent Sdn-Enabled Malware Detection Framework For Internet Of Medical Things (Iomt) in the DBLP citation network?
+What institutions participated in the study of Multidimensional indexing technique for medical images retrieval in the DBLP citation network?
+What institutions participated in the study of MMFGRN: a multi-source multi-model fusion method for gene regulatory network reconstruction in the DBLP citation network?
+What institutions participated in the study of RPformer: A Robust Parallel Transformer for Visual Tracking in Complex Scenes in the DBLP citation network?
+What institutions participated in the study of Wearable Sensor-Based Prediction Model of Timed up and Go Test in Older Adults in the DBLP citation network?
+What keywords does Shubo Liu focus on most in the DBLP citation network?
+What keywords does Istvan Haller focus on most in the DBLP citation network?
+What keywords does S. A. Abramov focus on most in the DBLP citation network?
+What keywords does Lorenz Räber focus on most in the DBLP citation network?
+What keywords does Suvi K. Holm focus on most in the DBLP citation network?
+What keywords does Zixuan Yi focus on most in the DBLP citation network?
+What keywords does Zhuo-Xu Cui focus on most in the DBLP citation network?
+What keywords does Guillermo Barturen focus on most in the DBLP citation network?
+What keywords does Sabine E M J Stoltz focus on most in the DBLP citation network?
+What keywords does Yuanzhe Wang focus on most in the DBLP citation network?

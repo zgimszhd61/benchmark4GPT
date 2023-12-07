@@ -1,0 +1,100 @@
+What percentage of the flights from PIT were delayed on 2022-05-17?
+What percentage of the flights from JAC were delayed on 2022-02-24?
+What percentage of the flights from DEN were delayed on 2022-02-02?
+What percentage of the flights from HPN were delayed on 2022-01-30?
+What percentage of the flights from STT were delayed on 2022-03-19?
+What percentage of the flights from ORD were delayed on 2022-06-13?
+What percentage of the flights from LAW were delayed on 2022-04-24?
+What percentage of the flights from PIT were delayed on 2022-01-28?
+What percentage of the flights from MDW were delayed on 2022-01-04?
+What percentage of the flights from CLE were delayed on 2022-04-09?
+What is the average delay time of all the flights that departed from ERI on 2022-01-18?
+What is the average delay time of all the flights that departed from PBG on 2022-07-31?
+What is the average delay time of all the flights that departed from TBN on 2022-05-23?
+What is the average delay time of all the flights that departed from SUX on 2022-07-12?
+What is the average delay time of all the flights that departed from BRW on 2022-03-09?
+What is the average delay time of all the flights that departed from PSG on 2022-02-06?
+What is the average delay time of all the flights that departed from SCK on 2022-06-03?
+What is the average delay time of all the flights that departed from PSG on 2022-07-27?
+What is the average delay time of all the flights that departed from FAT on 2022-06-10?
+What is the average delay time of all the flights that departed from RDU on 2022-04-02?
+How many flights were diverted on 2022-01-14?
+How many flights were diverted on 2022-01-05?
+How many flights were diverted on 2022-05-11?
+How many flights were diverted on 2022-04-23?
+How many flights were diverted on 2022-01-19?
+How many flights were diverted on 2022-04-18?
+How many flights were diverted on 2022-03-01?
+How many flights were diverted on 2022-04-02?
+How many flights were diverted on 2022-07-10?
+How many flights were diverted on 2022-01-27?
+How many flights with a distance greater than 500 miles on 2022-01-02?
+How many flights with a distance greater than 500 miles on 2022-01-09?
+How many flights with a distance greater than 500 miles on 2022-03-18?
+How many flights with a distance greater than 500 miles on 2022-02-25?
+How many flights with a distance greater than 500 miles on 2022-04-15?
+How many flights with a distance greater than 500 miles on 2022-03-15?
+How many flights with a distance greater than 500 miles on 2022-01-03?
+How many flights with a distance greater than 500 miles on 2022-01-09?
+How many flights with a distance greater than 500 miles on 2022-05-21?
+How many flights with a distance greater than 500 miles on 2022-07-02?
+What is the average airtime of the flights from BZN to CLT host by American Airlines Inc.?
+What is the average airtime of the flights from MKE to CLT host by Comair Inc.?
+What is the average airtime of the flights from ITO to OGG host by Hawaiian Airlines Inc.?
+What is the average airtime of the flights from CLT to MOB host by Capital Cargo International?
+What is the average airtime of the flights from CHO to CLT host by Capital Cargo International?
+What is the average airtime of the flights from AMA to DFW host by Mesa Airlines Inc.?
+What is the average airtime of the flights from SMF to OGG host by Hawaiian Airlines Inc.?
+What is the average airtime of the flights from ORF to ORD host by Envoy Air?
+What is the average airtime of the flights from MSP to MYR host by Spirit Air Lines?
+What is the average airtime of the flights from DLH to ORD host by Air Wisconsin Airlines Corp?
+How many flights from SLC to EWR host by United Air Lines Inc.?
+How many flights from JFK to IND host by Endeavor Air Inc.?
+How many flights from MSO to DEN host by Frontier Airlines Inc.?
+How many flights from ATL to CLE host by Spirit Air Lines?
+How many flights from ATW to ORD host by Air Wisconsin Airlines Corp?
+How many flights from FNT to ORD host by GoJet Airlines, LLC d/b/a United Express?
+How many flights from AVL to CLT host by Comair Inc.?
+How many flights from CLE to ORD host by Air Wisconsin Airlines Corp?
+How many flights from ITO to LAX host by United Air Lines Inc.?
+How many flights from DSM to CLT host by American Airlines Inc.?
+What is the average flight time of G41015?
+What is the average flight time of NK2062?
+What is the average flight time of AA5297?
+What is the average flight time of G4886?
+What is the average flight time of G41931?
+What is the average flight time of AA3262?
+What is the average flight time of WN6267?
+What is the average flight time of WN6679?
+What is the average flight time of DL1271?
+What is the average flight time of DL4939?
+What is the fastest flight from BFL to DEN on 6?
+What is the fastest flight from DVL to JMS on 2?
+What is the fastest flight from SLC to BIL on 1?
+What is the fastest flight from PIA to FLL on 4?
+What is the fastest flight from AVL to PIE on 6?
+What is the fastest flight from BIH to SFO on 3?
+What is the fastest flight from ERI to CLT on 4?
+What is the fastest flight from AKN to ANC on 3?
+What is the fastest flight from DTW to CWA on 4?
+What is the fastest flight from SRQ to CLE on 1?
+What is the average speed of DL4130 from HPN to DTW (miles per minute)?
+What is the average speed of WN1507 from COS to MDW (miles per minute)?
+What is the average speed of AA5272 from GPT to CLT (miles per minute)?
+What is the average speed of AA4086 from BPT to DFW (miles per minute)?
+What is the average speed of UA6124 from HSV to ORD (miles per minute)?
+What is the average speed of DL4239 from LSE to MSP (miles per minute)?
+What is the average speed of AA5165 from TRI to CLT (miles per minute)?
+What is the average speed of DL2993 from GRB to ATL (miles per minute)?
+What is the average speed of DL4268 from IMT to MSP (miles per minute)?
+What is the average speed of UA5104 from JMS to DVL (miles per minute)?
+What is the total number of flights operated by GoJet Airlines, LLC d/b/a United Express on 2022-02-01?
+What is the total number of flights operated by United Air Lines Inc. on 2022-05-27?
+What is the total number of flights operated by Commutair Aka Champlain Enterprises, Inc. on 2022-03-24?
+What is the total number of flights operated by Hawaiian Airlines Inc. on 2022-01-11?
+What is the total number of flights operated by Hawaiian Airlines Inc. on 2022-06-04?
+What is the total number of flights operated by Allegiant Air on 2022-04-12?
+What is the total number of flights operated by Frontier Airlines Inc. on 2022-04-10?
+What is the total number of flights operated by American Airlines Inc. on 2022-06-08?
+What is the total number of flights operated by Alaska Airlines Inc. on 2022-03-02?
+What is the total number of flights operated by Commutair Aka Champlain Enterprises, Inc. on 2022-02-18?

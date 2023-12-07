@@ -1,0 +1,130 @@
+What was the highest coffee price from 2009-12-23 to 2019-05-10?
+What was the highest coffee price from 2010-03-26 to 2014-05-15?
+What was the highest coffee price from 2009-04-28 to 2021-10-14?
+What was the highest coffee price from 2008-02-28 to 2020-07-08?
+What was the highest coffee price from 2004-10-13 to 2018-12-21?
+What was the highest coffee price from 2022-06-22 to 2022-08-16?
+What was the highest coffee price from 2000-10-25 to 2012-10-17?
+What was the highest coffee price from 2010-03-09 to 2010-07-15?
+What was the highest coffee price from 2017-10-20 to 2020-04-23?
+What was the highest coffee price from 2009-09-01 to 2012-06-21?
+What was the lowest coffee price from 2013-07-29 to 2018-12-04?
+What was the lowest coffee price from 2020-03-04 to 2021-11-03?
+What was the lowest coffee price from 2008-05-21 to 2016-06-24?
+What was the lowest coffee price from 2002-04-25 to 2012-10-01?
+What was the lowest coffee price from 2020-06-03 to 2022-01-20?
+What was the lowest coffee price from 2005-07-14 to 2014-04-23?
+What was the lowest coffee price from 2001-04-23 to 2015-12-02?
+What was the lowest coffee price from 2014-08-19 to 2019-03-28?
+What was the lowest coffee price from 2018-10-30 to 2021-02-11?
+What was the lowest coffee price from 2009-11-25 to 2021-11-29?
+What was the average coffee price from 2018-05-22 to 2021-01-08?
+What was the average coffee price from 2009-10-21 to 2021-10-07?
+What was the average coffee price from 2016-10-24 to 2019-03-29?
+What was the average coffee price from 2003-02-21 to 2010-03-16?
+What was the average coffee price from 2001-04-19 to 2010-08-22?
+What was the average coffee price from 2004-11-09 to 2019-10-11?
+What was the average coffee price from 2008-12-30 to 2015-05-29?
+What was the average coffee price from 2000-03-15 to 2007-03-16?
+What was the average coffee price from 2002-02-20 to 2005-09-08?
+What was the average coffee price from 2013-12-30 to 2016-02-05?
+How much did the coffee price change from 2017-08-16 to 2019-06-19?
+How much did the coffee price change from 2018-03-21 to 2022-07-25?
+How much did the coffee price change from 2007-06-18 to 2018-09-26?
+How much did the coffee price change from 2019-11-21 to 2021-03-16?
+How much did the coffee price change from 2001-12-27 to 2021-02-12?
+How much did the coffee price change from 2014-12-21 to 2018-07-09?
+How much did the coffee price change from 2020-12-28 to 2022-01-21?
+How much did the coffee price change from 2022-04-11 to 2022-07-11?
+How much did the coffee price change from 2004-05-27 to 2020-01-29?
+How much did the coffee price change from 2015-09-04 to 2018-11-30?
+What was the percentage change in coffee price on 2021-05-28 compared to the previous day?
+What was the percentage change in coffee price on 2019-05-30 compared to the previous day?
+What was the percentage change in coffee price on 2018-07-06 compared to the previous day?
+What was the percentage change in coffee price on 2005-01-07 compared to the previous day?
+What was the percentage change in coffee price on 2003-07-11 compared to the previous day?
+What was the percentage change in coffee price on 2018-01-08 compared to the previous day?
+What was the percentage change in coffee price on 2001-11-30 compared to the previous day?
+What was the percentage change in coffee price on 2005-11-09 compared to the previous day?
+What was the percentage change in coffee price on 2000-04-14 compared to the previous day?
+What was the percentage change in coffee price on 2001-03-05 compared to the previous day?
+On which date from 2016-10-14 to 2019-11-05 was the difference between the highest and lowest coffee prices the greatest?
+On which date from 2004-02-02 to 2020-02-06 was the difference between the highest and lowest coffee prices the greatest?
+On which date from 2012-09-25 to 2019-07-15 was the difference between the highest and lowest coffee prices the greatest?
+On which date from 2012-05-11 to 2017-07-17 was the difference between the highest and lowest coffee prices the greatest?
+On which date from 2017-10-27 to 2018-11-08 was the difference between the highest and lowest coffee prices the greatest?
+On which date from 2005-04-21 to 2020-08-12 was the difference between the highest and lowest coffee prices the greatest?
+On which date from 2014-05-30 to 2020-09-16 was the difference between the highest and lowest coffee prices the greatest?
+On which date from 2015-05-01 to 2020-01-03 was the difference between the highest and lowest coffee prices the greatest?
+On which date from 2021-11-04 to 2021-11-30 was the difference between the highest and lowest coffee prices the greatest?
+On which date from 2014-04-16 to 2018-03-05 was the difference between the highest and lowest coffee prices the greatest?
+What was the average daily volume of coffee traded from 2019-09-11 to 2022-01-26?
+What was the average daily volume of coffee traded from 2002-03-28 to 2015-06-09?
+What was the average daily volume of coffee traded from 2007-08-02 to 2009-08-26?
+What was the average daily volume of coffee traded from 2006-04-20 to 2019-03-06?
+What was the average daily volume of coffee traded from 2013-05-29 to 2013-09-19?
+What was the average daily volume of coffee traded from 2018-09-06 to 2021-05-24?
+What was the average daily volume of coffee traded from 2008-09-11 to 2014-07-30?
+What was the average daily volume of coffee traded from 2011-10-25 to 2013-12-19?
+What was the average daily volume of coffee traded from 2002-12-02 to 2003-09-04?
+What was the average daily volume of coffee traded from 2020-08-24 to 2021-05-12?
+On which date from 2017-07-05 to 2021-11-09 did the coffee price have the highest increase compared to the previous day?
+On which date from 2019-05-03 to 2021-10-25 did the coffee price have the highest increase compared to the previous day?
+On which date from 2016-01-26 to 2022-02-23 did the coffee price have the highest increase compared to the previous day?
+On which date from 2016-03-02 to 2019-07-16 did the coffee price have the highest increase compared to the previous day?
+On which date from 2019-10-15 to 2022-04-05 did the coffee price have the highest increase compared to the previous day?
+On which date from 2022-02-18 to 2022-06-08 did the coffee price have the highest increase compared to the previous day?
+On which date from 2015-09-28 to 2018-12-20 did the coffee price have the highest increase compared to the previous day?
+On which date from 2000-01-11 to 2020-08-21 did the coffee price have the highest increase compared to the previous day?
+On which date from 2014-07-15 to 2021-10-05 did the coffee price have the highest increase compared to the previous day?
+On which date from 2004-05-06 to 2010-01-25 did the coffee price have the highest increase compared to the previous day?
+How many times from 2009-06-26 to 2021-03-16 did the coffee price increase compared to the previous day?
+How many times from 2009-07-20 to 2011-01-26 did the coffee price increase compared to the previous day?
+How many times from 2012-10-10 to 2019-06-27 did the coffee price increase compared to the previous day?
+How many times from 2012-11-30 to 2014-03-24 did the coffee price increase compared to the previous day?
+How many times from 2012-06-07 to 2017-11-16 did the coffee price increase compared to the previous day?
+How many times from 2009-12-13 to 2020-05-05 did the coffee price increase compared to the previous day?
+How many times from 2002-10-18 to 2014-11-30 did the coffee price increase compared to the previous day?
+How many times from 2000-02-25 to 2004-03-26 did the coffee price increase compared to the previous day?
+How many times from 2009-08-05 to 2012-02-01 did the coffee price increase compared to the previous day?
+How many times from 2021-11-17 to 2022-07-21 did the coffee price increase compared to the previous day?
+What was the percentage increase in coffee price from 2017-10-16 to 2022-06-23?
+What was the percentage increase in coffee price from 2017-04-25 to 2020-07-24?
+What was the percentage increase in coffee price from 2016-05-26 to 2021-11-01?
+What was the percentage increase in coffee price from 2022-03-28 to 2022-05-02?
+What was the percentage increase in coffee price from 2013-11-14 to 2015-09-17?
+What was the percentage increase in coffee price from 2012-10-12 to 2014-04-08?
+What was the percentage increase in coffee price from 2012-03-02 to 2014-09-26?
+What was the percentage increase in coffee price from 2011-08-11 to 2016-09-26?
+What was the percentage increase in coffee price from 2010-10-14 to 2012-01-20?
+What was the percentage increase in coffee price from 2004-10-19 to 2014-12-22?
+What was the coffee price range from 2000-01-03 to 2014-03-24?
+What was the coffee price range from 2000-01-03 to 2020-05-19?
+What was the coffee price range from 2000-01-03 to 2002-05-16?
+What was the coffee price range from 2000-01-03 to 2020-10-07?
+What was the coffee price range from 2000-01-03 to 2000-12-05?
+What was the coffee price range from 2000-01-03 to 2011-07-13?
+What was the coffee price range from 2000-01-03 to 2011-03-09?
+What was the coffee price range from 2000-01-03 to 2000-03-28?
+What was the coffee price range from 2000-01-03 to 2012-04-04?
+What was the coffee price range from 2000-01-03 to 2019-03-01?
+On how many days from 2000-01-03 to 2017-07-27 did the coffee price close higher than the opening price?
+On how many days from 2000-01-03 to 2009-08-07 did the coffee price close higher than the opening price?
+On how many days from 2000-01-03 to 2012-07-23 did the coffee price close higher than the opening price?
+On how many days from 2000-01-03 to 2007-04-19 did the coffee price close higher than the opening price?
+On how many days from 2000-01-03 to 2012-12-10 did the coffee price close higher than the opening price?
+On how many days from 2000-01-03 to 2018-02-26 did the coffee price close higher than the opening price?
+On how many days from 2000-01-03 to 2005-05-31 did the coffee price close higher than the opening price?
+On how many days from 2000-01-03 to 2013-11-11 did the coffee price close higher than the opening price?
+On how many days from 2000-01-03 to 2016-12-14 did the coffee price close higher than the opening price?
+On how many days from 2000-01-03 to 2007-11-06 did the coffee price close higher than the opening price?
+What was the average percentage change in coffee price from 2017-06-02 to 2020-10-19?
+What was the average percentage change in coffee price from 2000-04-27 to 2011-09-14?
+What was the average percentage change in coffee price from 2016-04-19 to 2021-10-14?
+What was the average percentage change in coffee price from 2009-08-13 to 2011-10-05?
+What was the average percentage change in coffee price from 2008-09-08 to 2022-01-31?
+What was the average percentage change in coffee price from 2007-01-31 to 2018-10-16?
+What was the average percentage change in coffee price from 2003-07-18 to 2012-12-14?
+What was the average percentage change in coffee price from 2015-04-10 to 2017-04-11?
+What was the average percentage change in coffee price from 2019-08-08 to 2020-06-11?
+What was the average percentage change in coffee price from 2022-02-17 to 2022-06-08?

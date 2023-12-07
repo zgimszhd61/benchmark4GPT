@@ -1,0 +1,100 @@
+Who are the authors of Time to Leak: Cross-Device Timing Attack On Edge Deep Learning Accelerator?
+Who are the authors of Intrusion detection in networks using cuckoo search optimization?
+Who are the authors of Visionary automation of sack handling and emptying?
+Who are the authors of Environment mapping and other applications of world projections?
+Who are the authors of Administrative scope: A foundation for role-based administrative models?
+Who are the authors of Operational prototyping: a new development approach?
+Who are the authors of A software tool for human-robot shared-workspace collaboration with task precedence constraints?
+Who are the authors of Structured Prediction For Crisp Inverse Kinematics Learning With Misspecified Robot Models?
+Who are the authors of Design of an Autonomous Latching System for Surface Vessels?
+Who are the authors of Utilizing a Non-Motor Symptoms Questionnaire and Machine Learning to Differentiate Movement Disorders.?
+What organization is Bradley E. Rucker from?
+What organization is Ruben Puche-Panadero from?
+What organization is Sarat Chandra Swain from?
+What organization is Hongtao Su from?
+What organization is Junru Jin from?
+What organization is Allison Woodruff from?
+What organization is Allison C. Tam from?
+What organization is Eric C Porges from?
+What organization is Shengdong Zhang from?
+What organization is Zhanchao Li from?
+How many pages is Turbocharging Treewidth-Bounded Bayesian Network Structure Learning?
+How many pages is Smoothing Methods for Nonlinear Complementarity Problems.?
+How many pages is Construction of an efficient multivariate dynamic screening system.?
+How many pages is End-to-End Learning of OFDM Waveforms with PAPR and ACLR Constraints?
+How many pages is Recommending API Usages for Mobile Apps with Hidden Markov Model.?
+How many pages is Finding a Shortest Odd Hole?
+How many pages is A Multinomial Naïve Bayesian (MNB) Network to Automatically Recommend Topics for GitHub Repositories.?
+How many pages is Pole-Zero Cancellation Speed Control With Variable Current Cut-Off Frequency for Servo Motors?
+How many pages is Refactoring Java Monoliths into Executable Microservice-Based Applications.?
+How many pages is A data reduction scheme for triangulated surfaces?
+How many papers did Rate-Distortion Optimal Transform Coefficient Selection for Unoccupied Regions in Video-Based Point Cloud Compression cite?
+How many papers did A method to include reservoir operations in catchment hydrological models using SHETRAN cite?
+How many papers did GPU-aware resource management in heterogeneous cloud data centers cite?
+How many papers did High order discretization methods for spatial-dependent epidemic models cite?
+How many papers did Performance-Guaranteed Fault-Tolerant Control for Uncertain Nonlinear Systems via Learning-Based Switching Scheme cite?
+How many papers did Mean-Based Trace Reconstruction Over Oblivious Synchronization Channels cite?
+How many papers did Contextual Documentation Referencing on Stack Overflow cite?
+How many papers did Toward Predicting Stay Time for Private Car Users: A RNN-NALU Approach cite?
+How many papers did A stacked deep learning approach to cyber-attacks detection in industrial systems: application to power system and gas pipeline systems cite?
+How many papers did Software fault classification using extreme learning machine: a cognitive approach cite?
+How many papers in the DBLP citation network cited A Data Aggregation Based Approach To Exploit Dynamic Spatio-Temporal Correlations For Citywide Crowd Flows Prediction In Fog Computing?
+How many papers in the DBLP citation network cited Contrastive Adversarial Domain Adaptation for Machine Remaining Useful Life Prediction?
+How many papers in the DBLP citation network cited Distributed Attack Detection in a Water Treatment Plant: Method and Case Study?
+How many papers in the DBLP citation network cited Online and Unsupervised Anomaly Detection for Streaming Data Using an Array of Sliding Windows and PDDs?
+How many papers in the DBLP citation network cited A novel gray wolf optimizer with RNA crossover operation for tackling the non-parametric modeling problem of FCC process?
+How many papers in the DBLP citation network cited A Grouping Differential Evolution Algorithm Boosted by Attraction and Repulsion Strategies for Masi Entropy-Based Multi-Level Image Segmentation?
+How many papers in the DBLP citation network cited AntiSense: Standard-compliant CSI obfuscation against unauthorized Wi-Fi sensing?
+How many papers in the DBLP citation network cited End-To-End Computer Vision Framework: An Open-Source Platform For Research And Education?
+How many papers in the DBLP citation network cited Contractible Edges In K-Connected Graphs With Minimum Degree Greater Than Or Equal To Left Perpendicular 3k-1/2 Right Perpendicular?
+How many papers in the DBLP citation network cited Analytical modeling for signaling‐based DRX in 5G communication?
+How many collaborators does Seoyoung Ahn have in the DBLP citation network?
+How many collaborators does Bohyung Han have in the DBLP citation network?
+How many collaborators does Gözel Shakeri have in the DBLP citation network?
+How many collaborators does Huijie Peng have in the DBLP citation network?
+How many collaborators does Andrew D. Ferguson have in the DBLP citation network?
+How many collaborators does Cliff Young have in the DBLP citation network?
+How many collaborators does Nicholas J. Bryan have in the DBLP citation network?
+How many collaborators does Zhonghua Zheng have in the DBLP citation network?
+How many collaborators does Minsu Ko have in the DBLP citation network?
+How many collaborators does Jan Mandel have in the DBLP citation network?
+How many papers did K Zheng and Q Zhou write together in the DBLP citation network?
+How many papers did Payam Ghassemi and Amir Behjat write together in the DBLP citation network?
+How many papers did Tai-Quan Peng and Lun Zhang write together in the DBLP citation network?
+How many papers did Joachim von Zitzewitz and Grégoire Courtine write together in the DBLP citation network?
+How many papers did Jonathan Tremblay and Thomas Müller write together in the DBLP citation network?
+How many papers did Sarah Fakhoury and Cole S. Peterson write together in the DBLP citation network?
+How many papers did Jingqin Wang and Jingtao Wang write together in the DBLP citation network?
+How many papers did Seungyong Moon and Hyun Oh Song write together in the DBLP citation network?
+How many papers did Mansouri Farnam and Hamid R. Rabiee write together in the DBLP citation network?
+How many papers did Roger Gassert and Lambercy Olivier write together in the DBLP citation network?
+What papers did Annahita Amireskandari write in the DBLP citation network?
+What papers did Yan Zhang write in the DBLP citation network?
+What papers did Amine Ihamouten write in the DBLP citation network?
+What papers did Stefano Aldini write in the DBLP citation network?
+What papers did Jun Zeng write in the DBLP citation network?
+What papers did Dongdong Mu write in the DBLP citation network?
+What papers did Alessandro Brighente write in the DBLP citation network?
+What papers did Christopher Yau write in the DBLP citation network?
+What papers did Veera Rajendran write in the DBLP citation network?
+What papers did Chenlu Shen write in the DBLP citation network?
+How many papers did Erdogan Pekcan Erkan write in the DBLP citation network?
+How many papers did Mucong Li write in the DBLP citation network?
+How many papers did Liang Shi write in the DBLP citation network?
+How many papers did Biplab Sikdar write in the DBLP citation network?
+How many papers did Aakash Ahmad write in the DBLP citation network?
+How many papers did Mainack Mondal write in the DBLP citation network?
+How many papers did Joel M. Cooper write in the DBLP citation network?
+How many papers did Yao Qin write in the DBLP citation network?
+How many papers did Debarghya Ghoshdastidar write in the DBLP citation network?
+How many papers did Reza Lotfidereshgi write in the DBLP citation network?
+What venue did TS Chua and X He collaborate most in the DBLP citation network?
+What venue did Eric F. Vermote and J.-C. Roger collaborate most in the DBLP citation network?
+What venue did Per Jesper Sjöström and Rui Ponte Costa collaborate most in the DBLP citation network?
+What venue did Robert M Roth and Brian MacWhinney collaborate most in the DBLP citation network?
+What venue did Chetna Singhal and Raja Datta collaborate most in the DBLP citation network?
+What venue did Kang Yang and Ziyi Zhou collaborate most in the DBLP citation network?
+What venue did Hadi Daneshmand and Amir Joudaki collaborate most in the DBLP citation network?
+What venue did Juliane Fischer and Birgit Vogel-Heuser collaborate most in the DBLP citation network?
+What venue did Penelope Collins and Dakuo Wang collaborate most in the DBLP citation network?
+What venue did Xiaohua Zhu and Hong Hong collaborate most in the DBLP citation network?

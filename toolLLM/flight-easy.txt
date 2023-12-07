@@ -1,0 +1,100 @@
+What was the departure time of the AA2319 flight from MIA to LAS on 2022-06-05?
+What was the departure time of the AA4869 flight from HHH to CLT on 2022-05-06?
+What was the departure time of the DL5172 flight from SBN to ATL on 2022-01-03?
+What was the departure time of the DL891 flight from SEA to LAX on 2022-01-22?
+What was the departure time of the DL414 flight from LGA to ATL on 2022-02-07?
+What was the departure time of the DL2759 flight from MCO to DTW on 2022-05-14?
+What was the departure time of the DL82 flight from MEM to ATL on 2022-01-18?
+What was the departure time of the WN2392 flight from PDX to OAK on 2022-04-12?
+What was the departure time of the F9124 flight from JAX to SJU on 2022-02-28?
+What was the departure time of the AA2792 flight from SAT to DFW on 2022-01-07?
+Was the flight DL5097 from MLU to ATL cancelled on 2022-02-05?
+Was the flight AS715 from EWR to SEA cancelled on 2022-03-11?
+Was the flight UA2106 from LAS to IAH cancelled on 2022-02-05?
+Was the flight AA6152 from CHO to CLT cancelled on 2022-07-06?
+Was the flight UA3981 from TVC to ORD cancelled on 2022-03-18?
+Was the flight UA348 from OGG to ORD cancelled on 2022-06-29?
+Was the flight WN5333 from RDU to BWI cancelled on 2022-01-08?
+Was the flight WN2465 from SAN to DEN cancelled on 2022-01-10?
+Was the flight AA5566 from CLT to LEX cancelled on 2022-01-20?
+Was the flight AA2289 from MIA to LAX cancelled on 2022-02-20?
+What is the flight number of the SkyWest Airlines Inc. flight from IAH to PIB on 2022-06-24?
+What is the flight number of the Delta Air Lines Inc. flight from MCO to LGA on 2022-04-30?
+What is the flight number of the Mesa Airlines Inc. flight from IAH to RDU on 2022-01-12?
+What is the flight number of the Alaska Airlines Inc. flight from RDU to SEA on 2022-06-18?
+What is the flight number of the Commutair Aka Champlain Enterprises, Inc. flight from CHO to IAD on 2022-01-07?
+What is the flight number of the Southwest Airlines Co. flight from MIA to BWI on 2022-02-11?
+What is the flight number of the Frontier Airlines Inc. flight from SJU to MCO on 2022-07-14?
+What is the flight number of the Delta Air Lines Inc. flight from BOS to MCO on 2022-06-06?
+What is the flight number of the Delta Air Lines Inc. flight from ATL to MIA on 2022-01-27?
+What is the flight number of the Southwest Airlines Co. flight from ONT to LAS on 2022-07-08?
+How long was the different between the CRS recorded departure time and actual departure time of the DL5273 flight from JFK to CVG on 2022-03-29?
+How long was the different between the CRS recorded departure time and actual departure time of the WN573 flight from PHX to SMF on 2022-04-15?
+How long was the different between the CRS recorded departure time and actual departure time of the DL3826 flight from LAX to ABQ on 2022-06-15?
+How long was the different between the CRS recorded departure time and actual departure time of the B6792 flight from TPA to BOS on 2022-01-13?
+How long was the different between the CRS recorded departure time and actual departure time of the DL5233 flight from MSP to CVG on 2022-07-21?
+How long was the different between the CRS recorded departure time and actual departure time of the DL712 flight from ATL to IND on 2022-06-08?
+How long was the different between the CRS recorded departure time and actual departure time of the AA2020 flight from TPA to CLT on 2022-02-07?
+How long was the different between the CRS recorded departure time and actual departure time of the UA3430 flight from EWR to RDU on 2022-06-10?
+How long was the different between the CRS recorded departure time and actual departure time of the AA1235 flight from DFW to LAX on 2022-07-31?
+How long was the different between the CRS recorded departure time and actual departure time of the UA3831 flight from SBN to ORD on 2022-06-13?
+How long did UA3449 delay when arrival on 2022-03-24?
+How long did UA5482 delay when arrival on 2022-06-06?
+How long did AS218 delay when arrival on 2022-03-24?
+How long did AA4631 delay when arrival on 2022-06-27?
+How long did WN4822 delay when arrival on 2022-07-30?
+How long did G42595 delay when arrival on 2022-04-03?
+How long did WN2519 delay when arrival on 2022-02-21?
+How long did DL3541 delay when arrival on 2022-04-24?
+How long did UA5864 delay when arrival on 2022-01-24?
+How long did AS3388 delay when arrival on 2022-02-12?
+How many extra minutes did the WN2522 flight take from ECP to ATL on 2022-03-27?
+How many extra minutes did the DL2058 flight take from MCO to RDU on 2022-04-13?
+How many extra minutes did the WN1749 flight take from MKE to DCA on 2022-05-23?
+How many extra minutes did the B6257 flight take from BOS to BZN on 2022-03-26?
+How many extra minutes did the WN2361 flight take from AUS to FLL on 2022-06-16?
+How many extra minutes did the HA73 flight take from ONT to HNL on 2022-01-13?
+How many extra minutes did the WN1415 flight take from ATL to LGA on 2022-01-02?
+How many extra minutes did the AA1855 flight take from AUS to SJU on 2022-07-13?
+How many extra minutes did the AA5027 flight take from DCA to PWM on 2022-04-12?
+How many extra minutes did the DL5698 flight take from DCA to JFK on 2022-07-01?
+What was the local arrival time of the NK143 flight from BQN to MCO on 2022-02-16?
+What was the local arrival time of the WN6075 flight from DEN to ATL on 2022-01-07?
+What was the local arrival time of the UA504 flight from IAD to LAX on 2022-01-28?
+What was the local arrival time of the NK1314 flight from FLL to DEN on 2022-06-11?
+What was the local arrival time of the B61168 flight from PBI to HPN on 2022-01-05?
+What was the local arrival time of the UA5415 flight from IAH to COS on 2022-07-21?
+What was the local arrival time of the WN1360 flight from BWI to LAS on 2022-01-23?
+What was the local arrival time of the DL4872 flight from TYS to LGA on 2022-03-28?
+What was the local arrival time of the AA2281 flight from DFW to SAT on 2022-03-08?
+What was the local arrival time of the DL5165 flight from XNA to MSP on 2022-01-17?
+What was the CRS-recorded arrival time of the AA2733 flight from DFW to LAX on 2022-01-30?
+What was the CRS-recorded arrival time of the B61075 flight from PVD to MCO on 2022-02-11?
+What was the CRS-recorded arrival time of the NK1697 flight from OAK to LAS on 2022-05-24?
+What was the CRS-recorded arrival time of the WN1111 flight from SJC to LAS on 2022-05-02?
+What was the CRS-recorded arrival time of the G42148 flight from SAV to CVG on 2022-07-08?
+What was the CRS-recorded arrival time of the UA2240 flight from ORD to CHS on 2022-07-29?
+What was the CRS-recorded arrival time of the AA6104 flight from SYR to BOS on 2022-06-20?
+What was the CRS-recorded arrival time of the B61586 flight from MCO to BUF on 2022-05-23?
+What was the CRS-recorded arrival time of the AA1683 flight from CLT to DTW on 2022-03-17?
+What was the CRS-recorded arrival time of the UA4425 flight from EWR to DCA on 2022-06-29?
+How long was the flight NK115 from MCO to BDL on 2022-07-08?
+How long was the flight AS809 from PDX to OGG on 2022-02-11?
+How long was the flight UA5045 from DVL to JMS on 2022-03-10?
+How long was the flight DL441 from DTW to ATL on 2022-05-09?
+How long was the flight UA662 from EWR to DFW on 2022-04-22?
+How long was the flight AA793 from BHM to DFW on 2022-05-01?
+How long was the flight WN327 from TPA to BNA on 2022-03-01?
+How long was the flight AA3016 from PSP to PHX on 2022-01-23?
+How long was the flight UA5286 from DEN to ICT on 2022-03-11?
+How long was the flight AA6030 from PHL to BGR on 2022-05-08?
+How many minutes did the DL3538 flight take to taxi in on 2022-06-26?
+How many minutes did the AS617 flight take to taxi in on 2022-02-26?
+How many minutes did the WN1069 flight take to taxi in on 2022-02-02?
+How many minutes did the UA450 flight take to taxi in on 2022-07-31?
+How many minutes did the AA802 flight take to taxi in on 2022-03-25?
+How many minutes did the WN1537 flight take to taxi in on 2022-03-13?
+How many minutes did the AA4804 flight take to taxi in on 2022-02-20?
+How many minutes did the B6623 flight take to taxi in on 2022-05-05?
+How many minutes did the DL4967 flight take to taxi in on 2022-04-13?
+How many minutes did the WN2517 flight take to taxi in on 2022-02-08?

@@ -1,0 +1,100 @@
+What was the opening price of coffee on 2001-12-06?
+What was the opening price of coffee on 2014-11-24?
+What was the opening price of coffee on 2013-07-23?
+What was the opening price of coffee on 2000-04-11?
+What was the opening price of coffee on 2007-04-09?
+What was the opening price of coffee on 2009-06-11?
+What was the opening price of coffee on 2005-07-18?
+What was the opening price of coffee on 2018-06-11?
+What was the opening price of coffee on 2021-04-09?
+What was the opening price of coffee on 2017-05-09?
+What was the opening price of coffee on 2013-12-26?
+What was the opening price of coffee on 2011-05-18?
+What was the opening price of coffee on 2018-03-06?
+What was the lowest price of coffee on 2016-12-23?
+What was the lowest price of coffee on 2020-04-20?
+What was the lowest price of coffee on 2000-09-13?
+What was the lowest price of coffee on 2016-08-31?
+What was the lowest price of coffee on 2008-12-19?
+What was the lowest price of coffee on 2010-04-12?
+What was the lowest price of coffee on 2005-01-27?
+What was the lowest price of coffee on 2004-09-27?
+What was the lowest price of coffee on 2000-05-25?
+What was the lowest price of coffee on 2011-03-07?
+What was the lowest price of coffee on 2005-09-26?
+What was the lowest price of coffee on 2004-06-09?
+What was the lowest price of coffee on 2018-05-03?
+What was the highest price of coffee on 2002-10-08?
+What was the highest price of coffee on 2012-11-12?
+What was the highest price of coffee on 2000-03-06?
+What was the highest price of coffee on 2002-11-18?
+What was the highest price of coffee on 2013-09-10?
+What was the highest price of coffee on 2022-06-24?
+What was the highest price of coffee on 2021-10-22?
+What was the highest price of coffee on 2011-12-16?
+What was the highest price of coffee on 2015-11-24?
+What was the highest price of coffee on 2021-02-10?
+What was the highest price of coffee on 2016-08-10?
+What was the highest price of coffee on 2001-04-23?
+What was the highest price of coffee on 2002-11-12?
+What was the closing price of coffee on 2017-09-12?
+What was the closing price of coffee on 2010-11-05?
+What was the closing price of coffee on 2008-01-30?
+What was the closing price of coffee on 2009-09-09?
+What was the closing price of coffee on 2002-09-30?
+What was the closing price of coffee on 2001-01-22?
+What was the closing price of coffee on 2005-08-19?
+What was the closing price of coffee on 2002-07-03?
+What was the closing price of coffee on 2015-04-29?
+What was the closing price of coffee on 2018-06-21?
+What was the closing price of coffee on 2008-08-06?
+What was the closing price of coffee on 2001-03-15?
+What was the closing price of coffee on 2013-07-02?
+What was the volume of coffee on 2003-09-15?
+What was the volume of coffee on 2020-06-24?
+What was the volume of coffee on 2012-04-30?
+What was the volume of coffee on 2002-05-20?
+What was the volume of coffee on 2009-03-09?
+What was the volume of coffee on 2004-12-16?
+What was the volume of coffee on 2013-09-11?
+What was the volume of coffee on 2013-06-21?
+What was the volume of coffee on 2013-04-08?
+What was the volume of coffee on 2017-01-30?
+What was the volume of coffee on 2021-04-12?
+What was the volume of coffee on 2015-05-28?
+What was the percentage change in coffee price on 2017-05-18, based on the difference between the opening and closing prices?
+What was the percentage change in coffee price on 2021-03-01, based on the difference between the opening and closing prices?
+What was the percentage change in coffee price on 2015-04-27, based on the difference between the opening and closing prices?
+What was the percentage change in coffee price on 2015-05-15, based on the difference between the opening and closing prices?
+What was the percentage change in coffee price on 2014-12-21, based on the difference between the opening and closing prices?
+What was the percentage change in coffee price on 2006-11-06, based on the difference between the opening and closing prices?
+What was the percentage change in coffee price on 2016-04-01, based on the difference between the opening and closing prices?
+What was the percentage change in coffee price on 2019-12-16, based on the difference between the opening and closing prices?
+What was the percentage change in coffee price on 2007-04-10, based on the difference between the opening and closing prices?
+What was the percentage change in coffee price on 2002-08-21, based on the difference between the opening and closing prices?
+What was the percentage change in coffee price on 2003-10-14, based on the difference between the opening and closing prices?
+What was the percentage change in coffee price on 2004-10-08, based on the difference between the opening and closing prices?
+Was 2016-04-20 a bearish or bullish day for coffee price?
+Was 2012-08-23 a bearish or bullish day for coffee price?
+Was 2013-07-26 a bearish or bullish day for coffee price?
+Was 2004-08-23 a bearish or bullish day for coffee price?
+Was 2009-04-29 a bearish or bullish day for coffee price?
+Was 2011-07-12 a bearish or bullish day for coffee price?
+Was 2017-06-12 a bearish or bullish day for coffee price?
+Was 2001-09-17 a bearish or bullish day for coffee price?
+Was 2020-04-16 a bearish or bullish day for coffee price?
+Was 2007-11-14 a bearish or bullish day for coffee price?
+Was 2007-04-02 a bearish or bullish day for coffee price?
+Was 2021-05-19 a bearish or bullish day for coffee price?
+What was the range of coffee price on 2018-07-06, based on the difference between the high and low prices??
+What was the range of coffee price on 2002-04-09, based on the difference between the high and low prices??
+What was the range of coffee price on 2017-09-28, based on the difference between the high and low prices??
+What was the range of coffee price on 2020-07-07, based on the difference between the high and low prices??
+What was the range of coffee price on 2012-04-18, based on the difference between the high and low prices??
+What was the range of coffee price on 2018-05-07, based on the difference between the high and low prices??
+What was the range of coffee price on 2021-06-18, based on the difference between the high and low prices??
+What was the range of coffee price on 2007-05-04, based on the difference between the high and low prices??
+What was the range of coffee price on 2004-08-06, based on the difference between the high and low prices??
+What was the range of coffee price on 2007-10-22, based on the difference between the high and low prices??
+What was the range of coffee price on 2006-05-11, based on the difference between the high and low prices??
+What was the range of coffee price on 2020-09-22, based on the difference between the high and low prices??
