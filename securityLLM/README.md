@@ -1,3 +1,6 @@
+# 2023-12-10
+ - https://github.com/zgimszhd61/java-code-simple
+
 # 2023-12-09
  - 仇视、偏见样本 https://github.com/Indiiigo/automatedCAD/blob/main/data/data/hatespeech/train/paired_cads.csv
 
