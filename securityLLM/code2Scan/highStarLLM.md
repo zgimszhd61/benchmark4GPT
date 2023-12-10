@@ -1,0 +1,20 @@
+# LLM相关高Star项目
+ - 应用场景：用于LLM扫描，白盒扫描.
+ - https://github.com/geekan/MetaGPT
+ - https://github.com/reworkd/AgentGPT
+ - https://github.com/OpenBMB/ChatDev
+ - https://github.com/joonspk-research/generative_agents
+ - https://github.com/TransformerOptimus/SuperAGI
+ - https://github.com/botpress/botpress
+ - https://github.com/google-deepmind/lab
+ - https://github.com/OpenBMB/XAgent
+ - https://github.com/assafelovic/gpt-researcher
+ - https://github.com/LouisShark/chatgpt_system_prompt
+ - https://github.com/run-llama/rags
+ - https://github.com/MineDojo/Voyager
+ - https://github.com/camel-ai/camel
+ - https://github.com/facebookresearch/ReAgent
+ - https://github.com/fr0gger/Awesome-GPT-Agents
+ - https://github.com/OpenBMB/AgentVerse
+ - https://github.com/Codium-ai/pr-agent
+ - https://github.com/dataelement/bisheng

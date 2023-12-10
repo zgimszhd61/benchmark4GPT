@@ -1,0 +1,25 @@
+# apache相关高Star项目
+ - 应用场景：用于LLM扫描，白盒扫描.
+ - https://github.com/macrozheng/mall
+ - https://github.com/dromara/hutool
+ - https://github.com/alibaba/spring-cloud-alibaba
+ - https://github.com/xuxueli/xxl-job
+ - https://github.com/greenrobot/EventBus
+ - https://github.com/google/gson
+ - https://github.com/alibaba/Sentinel
+ - https://github.com/apache/rocketmq
+ - https://github.com/mybatis/mybatis-3
+ - https://github.com/java-decompiler/jd-gui
+ - https://github.com/Netflix/conductor
+ - https://github.com/projectlombok/lombok
+ - https://github.com/realm/realm-java
+ - https://github.com/newbee-ltd/newbee-mall
+ - https://github.com/google/tink
+ - https://github.com/mockito/mockito
+ - https://github.com/elastic/logstash
+ - https://github.com/apache/shenyu
+ - https://github.com/apache/jmeter
+ - https://github.com/flyway/flyway
+ - https://github.com/swagger-api/swagger-core
+ - https://github.com/apache/beam
+ - https://github.com/apache/cassandra
