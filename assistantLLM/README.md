@@ -1,0 +1,2 @@
+ - https://huggingface.co/gaia-benchmark
+ - https://github.com/JieyuZ2/EcoAssistant

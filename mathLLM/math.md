@@ -1,4 +1,5 @@
- - 2023年上海的人均GDP是多少，人均工资是多少？
+- https://github.com/wellecks/llmstep/blob/master/python/benchmarking/proofsearch/data/minif2f.jsonl 
+- 2023年上海的人均GDP是多少，人均工资是多少？
  - 今年上海的人均GDP是多少，人均工资是多少？
  - 2023年在中国且未上市的独角兽AI公司有哪些？他们的估值和人效分别是多少？
  - 今年中国一共有多少家大模型基础设施公司？他们的最新估值分别是多少？
