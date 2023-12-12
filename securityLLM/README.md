@@ -1,3 +1,6 @@
+# 2023-12-12
+ - https://github.com/RhinoSecurityLabs/CVEs
+
 # 2023-12-10
  - https://github.com/zgimszhd61/java-code-simple
 
