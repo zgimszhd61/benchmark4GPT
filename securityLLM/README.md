@@ -1,5 +1,7 @@
 # 2023-12-13
  - https://github.com/wy876/POC/blob/main/Apache%20Struts2%20CVE-2023-50164.md
+ - https://github.com/linexjlin/GPTs
+ - https://mp.weixin.qq.com/s/JYnas6FxePXc0XO3N6ARmg
 # 2023-12-12
  - https://github.com/RhinoSecurityLabs/CVEs
 
