@@ -1,3 +1,5 @@
+# 2023-12-14
+ - https://github.com/ZacharyZcR/SecGPT
 # 2023-12-13
  - https://github.com/wy876/POC/blob/main/Apache%20Struts2%20CVE-2023-50164.md
  - https://github.com/linexjlin/GPTs
