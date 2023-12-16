@@ -1,5 +1,8 @@
-https://github.com/princeton-nlp/LLMBar
-https://github.com/google-research-datasets/boolean-questions
-https://paperswithcode.com/dataset/mbpp
-https://github.com/hkust-nlp/ceval
-https://github.com/hendrycks/test
+# 2023.12.16
+ - https://github.com/glgh/awesome-llm-human-preference-datasets
+# 2023.12.15
+ - https://github.com/princeton-nlp/LLMBar
+ - https://github.com/google-research-datasets/boolean-questions
+ - https://paperswithcode.com/dataset/mbpp
+ - https://github.com/hkust-nlp/ceval
+ - https://github.com/hendrycks/test
