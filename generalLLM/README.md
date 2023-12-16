@@ -1,5 +1,6 @@
 # 2023.12.16
  - https://github.com/glgh/awesome-llm-human-preference-datasets
+ - https://arxiv.org/pdf/2309.09400.pdf
 # 2023.12.15
  - https://github.com/princeton-nlp/LLMBar
  - https://github.com/google-research-datasets/boolean-questions
