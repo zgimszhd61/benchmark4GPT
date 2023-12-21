@@ -1,3 +1,5 @@
+# 2023-12-21
+ - 835个bug https://github.com/rjust/defects4j
 # 2023-12-20
  - google的有毒自动分类器 - https://github.com/coffee-and-fun/google-profanity-words
 # 2023-12-19
