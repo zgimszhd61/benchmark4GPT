@@ -1,5 +1,6 @@
 # 2023.12.21
  - https://paperswithcode.com/dataset/triviaqa
+ - https://github.com/tatsu-lab/alpaca_eval
 # 2023.12.19
  - https://allenai.org/data/proofwriter
  - https://huggingface.co/datasets/RyokoAI/ShareGPT52K
