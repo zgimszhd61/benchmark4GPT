@@ -1,5 +1,5 @@
 # 2023-12-22
- - Security CVE-2023-38646 , https://cloud.tencent.com/developer/article/2326776
+ - Security CVE-2023-38646 , https://github.com/shamo0/CVE-2023-38646-PoC , https://cloud.tencent.com/developer/article/2326776
  - Seucrity CVE-2023-37470 , https://zhi.oscs1024.com/4502.html
 # 2023-12-21
  - 835个bug https://github.com/rjust/defects4j
