@@ -1,3 +1,5 @@
+# 2023-12-23
+ - persuation https://github.com/kobihackenburg/GPT-4-microtargeting-evaluation/tree/main
 # 2023-12-22
  - Security CVE-2023-38646 , https://github.com/shamo0/CVE-2023-38646-PoC , https://cloud.tencent.com/developer/article/2326776
  - Seucrity CVE-2023-37470 , https://zhi.oscs1024.com/4502.html
