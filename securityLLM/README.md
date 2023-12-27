@@ -1,3 +1,5 @@
+# 2023.12.27
+ - https://github.com/HillZhang1999/llm-hallucination-survey
 # 2023-12-23
  - persuation https://github.com/kobihackenburg/GPT-4-microtargeting-evaluation/tree/main
 # 2023-12-22
