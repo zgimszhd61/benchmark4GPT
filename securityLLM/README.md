@@ -1,3 +1,6 @@
+# 2024.01.09
+ - hate speech https://zenodo.org/records/4444122
+
 # 2023.12.27
  - https://github.com/HillZhang1999/llm-hallucination-survey
 # 2023-12-23
