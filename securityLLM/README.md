@@ -1,3 +1,6 @@
+# 2024.01.11
+ - https://github.com/arobey1/advbench
+
 # 2024.01.09
  - hate speech https://zenodo.org/records/4444122
 
