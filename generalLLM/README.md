@@ -1,3 +1,5 @@
+# 2024.01.16
+ - https://huggingface.co/datasets/davanstrien/haiku_dpo
 # 2023.12.21
  - https://paperswithcode.com/dataset/triviaqa
  - https://github.com/tatsu-lab/alpaca_eval
